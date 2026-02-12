@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <p align="left">
 
 <a href="https://linkedin.com/in/aryanikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="27abhi27" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29832295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29832295" height="30" width="40" /></a>
 <a href="https://kaggle.com/@nikhilarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@nikhilarya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhilaryaism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="27abhi27" height="30" width="40" /></a>
 </p>
